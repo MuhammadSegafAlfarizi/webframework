@@ -1485,6 +1485,7 @@ section,
 .portfolio .portfolio-content {
   position: relative;
   overflow: hidden;
+<<<<<<< HEAD
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -1495,14 +1496,19 @@ section,
   border-radius: 10px;
   transition: all 0.3s ease;
   box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+=======
+>>>>>>> 2005f8c70943d5a308889e3dfb6d5896811a5ab6
 }
 
 .portfolio .portfolio-content img {
   transition: 0.3s;
+<<<<<<< HEAD
   height: 200px;
   width: 100%;
   object-fit: cover;
   border-radius: 8px;
+=======
+>>>>>>> 2005f8c70943d5a308889e3dfb6d5896811a5ab6
 }
 
 .portfolio .portfolio-content .portfolio-info {

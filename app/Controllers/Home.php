@@ -2,6 +2,7 @@
 
 namespace App\Controllers;
 
+<<<<<<< HEAD
 use App\Models\ZonaPhoneModel;
 
 class Home extends BaseController
@@ -12,6 +13,10 @@ class Home extends BaseController
         $this->zonaPhoneModel = new ZonaPhoneModel();
     }
 
+=======
+class Home extends BaseController
+{
+>>>>>>> 2005f8c70943d5a308889e3dfb6d5896811a5ab6
     public function index()
     {
         $data = [
@@ -20,6 +25,7 @@ class Home extends BaseController
         return view('pages/index', $data);
     }
     
+<<<<<<< HEAD
     public function katalog()
     {
         $data = [
@@ -38,6 +44,8 @@ class Home extends BaseController
         return view('pages/detail', $data);
     }
     
+=======
+>>>>>>> 2005f8c70943d5a308889e3dfb6d5896811a5ab6
     public function about()
     {
         $data = [
@@ -45,7 +53,19 @@ class Home extends BaseController
         ];
         return view('pages/about', $data);
     }
+<<<<<<< HEAD
     
+=======
+
+    public function detail()
+    {
+        $data = [
+            'title' => 'Detail'
+        ];
+        return view('pages/detail', $data);
+    }
+
+>>>>>>> 2005f8c70943d5a308889e3dfb6d5896811a5ab6
     public function kontak()
     {
         $data = [
@@ -54,6 +74,17 @@ class Home extends BaseController
         return view('pages/kontak', $data);
     }
 
+<<<<<<< HEAD
+=======
+    public function katalog()
+    {
+        $data = [
+            'title' => 'Katalog'
+        ];
+        return view('pages/katalog', $data);
+    }
+
+>>>>>>> 2005f8c70943d5a308889e3dfb6d5896811a5ab6
     public function faq()
     {
         $data = [

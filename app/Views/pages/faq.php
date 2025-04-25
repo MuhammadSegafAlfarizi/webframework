@@ -73,7 +73,11 @@
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
+<<<<<<< HEAD
                 <img src="https://ceklist.id/wp-content/uploads/2022/02/Toko-HP-Online-Terpercaya.jpg" alt="" class="img-fluid">
+=======
+                <img src="assets/img/working-1.jpg" alt="" class="img-fluid">
+>>>>>>> 2005f8c70943d5a308889e3dfb6d5896811a5ab6
               </div>
             </div>
           </div><!-- End Tab Content Item -->
@@ -96,7 +100,11 @@
                 </ul> -->
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
+<<<<<<< HEAD
                 <img src="https://cdn.ajnn.net/files/images/20220608-toko-handphone-1.jpeg" alt="" class="img-fluid">
+=======
+                <img src="assets/img/working-2.jpg" alt="" class="img-fluid">
+>>>>>>> 2005f8c70943d5a308889e3dfb6d5896811a5ab6
               </div>
             </div>
           </div><!-- End Tab Content Item -->
@@ -118,7 +126,11 @@
                 </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
+<<<<<<< HEAD
                 <img src="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/06/23/2124742502.jpg" alt="" class="img-fluid">
+=======
+                <img src="assets/img/working-3.jpg" alt="" class="img-fluid">
+>>>>>>> 2005f8c70943d5a308889e3dfb6d5896811a5ab6
               </div>
             </div>
           </div><!-- End Tab Content Item -->
@@ -143,7 +155,11 @@
                 </ul> -->
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
+<<<<<<< HEAD
                 <img src="https://mediakonsumen.com/files/2018/07/ilustrasi-call-center-customer-service-pelanggan.jpg" alt="" class="img-fluid">
+=======
+                <img src="assets/img/working-4.jpg" alt="" class="img-fluid">
+>>>>>>> 2005f8c70943d5a308889e3dfb6d5896811a5ab6
               </div>
             </div>
           </div><!-- End Tab Content Item -->
